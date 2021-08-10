@@ -245,6 +245,12 @@ section .title::after{
 }
 .about .about-content .right p{
     text-align: justify;
+    background: rgba(209, 209, 207, 0.2);
+    box-shadow: 0 8px 32px 0px rgba(103,103, 107, 0.37);
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    border: 2px solid white;
+    text-align: justify;
 }
 .about .about-content .right a{
     display: inline-block;
@@ -296,6 +302,11 @@ section .title::after{
 }
 .attractions .attractions-content .right p{
     text-align: justify;
+    background: rgba(209, 209, 207, 0.2);
+    box-shadow: 0 8px 32px 0px rgba(103,103, 107, 0.37);
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    border: 2px solid white;
 }
 .attractions .attractions-content .right a{
     display: inline-block;
